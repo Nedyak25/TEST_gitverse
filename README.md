@@ -1,30 +1,16 @@
+# Тест якорей
 
-
-иьти
-ьмм
-
-
-
-
-
-
-
-
-
-
-
-
-# Заголовок 1
-
-[Начать](https://gitverse.ru/Nedyak_D/READ/content/main/README.md#user-content-quick-start)
+Ссылка на следующий раздел: [Начать](#quick-start)
 
 ## Quick Start
 
 Описание шагов.
 
+---
 
+Используем кастомный якорь:
 
+<a name="custom-anchor"></a>
+## Раздел с якорем
 
-
-![:name](http://moe-counter.es3n1n.eu/@:name)
-
+Ссылка на кастомный якорь: [Перейти](#custom-anchor)
