@@ -1,2 +1,2 @@
-graph TB
-  A["Line 1<br/>Line 2"]
+![тест](https://moe-counter.es3n1n.eu)
+
