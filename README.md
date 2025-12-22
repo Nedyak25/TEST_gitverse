@@ -16,7 +16,7 @@
 
 # Заголовок 1
 
-[Начать](#quick-start)
+[Начать](https://gitverse.ru/Nedyak_D/READ/content/main/README.md#user-content-quick-start)
 
 ## Quick Start
 
